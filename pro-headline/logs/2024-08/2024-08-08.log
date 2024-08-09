@@ -1,0 +1,32 @@
+2024-08-08 12:30:18.677  INFO 11688 --- [main] com.zwh.test.HeTest                      : Starting HeTest using Java 17.0.4.1 with PID 11688 (started by LUNIX in D:\AIdeaPro\spring-boot-projects\pro-headline)
+2024-08-08 12:30:18.680  INFO 11688 --- [main] com.zwh.test.HeTest                      : No active profile set, falling back to 1 default profile: "default"
+2024-08-08 12:30:19.568  INFO 11688 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2024-08-08 12:30:20.123  INFO 11688 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-08-08 12:30:20.325  WARN 11688 --- [main] c.b.m.core.injector.DefaultSqlInjector   : class com.zwh.pojo.Type ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2024-08-08 12:30:20.958  INFO 11688 --- [main] com.zwh.test.HeTest                      : Started HeTest in 2.736 seconds (process running for 3.757)
+2024-08-08 12:30:21.575  INFO 11688 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2024-08-08 12:30:21.580  INFO 11688 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2024-08-08 12:36:16.771  INFO 17324 --- [main] com.zwh.test.HeTest                      : Starting HeTest using Java 17.0.4.1 with PID 17324 (started by LUNIX in D:\AIdeaPro\spring-boot-projects\pro-headline)
+2024-08-08 12:36:16.774  INFO 17324 --- [main] com.zwh.test.HeTest                      : No active profile set, falling back to 1 default profile: "default"
+2024-08-08 12:36:17.654  INFO 17324 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2024-08-08 12:36:18.303  INFO 17324 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-08-08 12:36:18.525  WARN 17324 --- [main] c.b.m.core.injector.DefaultSqlInjector   : class com.zwh.pojo.Type ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2024-08-08 12:36:19.155  INFO 17324 --- [main] com.zwh.test.HeTest                      : Started HeTest in 2.802 seconds (process running for 3.719)
+2024-08-08 12:36:19.766  INFO 17324 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2024-08-08 12:36:19.771  INFO 17324 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2024-08-08 16:17:13.480  INFO 17776 --- [main] com.zwh.test.HeTest                      : Starting HeTest using Java 17.0.4.1 with PID 17776 (started by LUNIX in D:\AIdeaPro\spring-boot-projects\pro-headline)
+2024-08-08 16:17:13.482  INFO 17776 --- [main] com.zwh.test.HeTest                      : No active profile set, falling back to 1 default profile: "default"
+2024-08-08 16:17:14.419  INFO 17776 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2024-08-08 16:17:14.953  INFO 17776 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-08-08 16:17:15.151  WARN 17776 --- [main] c.b.m.core.injector.DefaultSqlInjector   : class com.zwh.pojo.Type ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2024-08-08 16:17:15.744  INFO 17776 --- [main] com.zwh.test.HeTest                      : Started HeTest in 2.677 seconds (process running for 3.582)
+2024-08-08 16:17:16.412  INFO 17776 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2024-08-08 16:17:16.417  INFO 17776 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2024-08-08 16:17:34.014  INFO 20668 --- [main] com.zwh.test.HeTest                      : Starting HeTest using Java 17.0.4.1 with PID 20668 (started by LUNIX in D:\AIdeaPro\spring-boot-projects\pro-headline)
+2024-08-08 16:17:34.018  INFO 20668 --- [main] com.zwh.test.HeTest                      : No active profile set, falling back to 1 default profile: "default"
+2024-08-08 16:17:35.117  INFO 20668 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2024-08-08 16:17:35.782  INFO 20668 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-08-08 16:17:36.021  WARN 20668 --- [main] c.b.m.core.injector.DefaultSqlInjector   : class com.zwh.pojo.Type ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2024-08-08 16:17:36.666  INFO 20668 --- [main] com.zwh.test.HeTest                      : Started HeTest in 3.192 seconds (process running for 4.298)
+2024-08-08 16:17:37.303  INFO 20668 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2024-08-08 16:17:37.308  INFO 20668 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
